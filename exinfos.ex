@@ -1,0 +1,9 @@
+[INFOS]
+gaf=0
+title=WebApp
+image=description.gif
+description=description.rtf
+source=1
+typesite=0
+[OBJECT]
+WebApp.wwp=4096
